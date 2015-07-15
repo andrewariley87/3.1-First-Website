@@ -1,0 +1,49 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans');
+
+html *
+{
+   font-size: 1em !important;
+   color: #8C8C8C !important;
+   font-family: Open Sans; !important;
+}
+
+.container{
+
+  margin: auto;
+  width: 600px;
+}
+
+
+
+img {
+
+  width: 220px; height: 220px; border-radius:30px;
+
+}
+
+
+body{
+
+  text-align: center;
+
+}
+
+
+section{
+  width: 250px;
+  margin-left: 10px;
+  float: left;
+
+}
+
+h5 section{
+
+  text-align: center;
+  width: 100px;
+
+}
+
+
+h2 {
+text-align: center;
+}
